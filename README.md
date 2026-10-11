@@ -8,6 +8,7 @@
 * numpy
 * matplotlib
 * ipykernel
+* timeit
 
 ### Used for development/testing
 
